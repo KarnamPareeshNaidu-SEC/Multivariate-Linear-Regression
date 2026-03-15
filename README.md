@@ -43,9 +43,8 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 ```
 ## Output:
-file:///C:/Users/acer/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/B8B55370ACE5F2644131C2EC26CA0427C3FE6ADF/transfers/2026-11/MATH%20FOR%20AI%20JUP%20-2.pdf
+file:///C:/Users/acer/Downloads/MATH%20FOR%20AI%20JUP%20EX%20-1.pdf
 
-<br>
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
